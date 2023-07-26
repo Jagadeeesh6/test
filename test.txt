@@ -1,0 +1,19 @@
+step to how to install and push the code
+1. intsall git by using sudo apt install git
+2. before install we need update sudo by using sudo apt update
+3. now check the git version by using git --version
+4. create the account in git hub.com and sinup in that
+5. create the new respority
+6. create the new floder in desktop open in terinaml
+7. create the new text file by using touch command 
+8. enter the code or any text on it save it
+9. open the  created floder and open in terinmal 
+10.type git init in terminal after we can git floder in created floder
+11.now we type git status in ternimal we can red colour that u creted
+12. type git add . in ternimal 
+13. type git status in ternimal we can green colour your text fill is added
+14.type git commit -m "anyname"(its will ask username and password of your git)
+15. type git config --global user.mail "mail id"
+16. type git config --global user.name "username"
+17. check whether its config our mail or name we can by using ,using git config user.name , git config user.name
+18.copy the respority path from github paste in the terminal
