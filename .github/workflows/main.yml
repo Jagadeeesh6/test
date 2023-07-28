@@ -1,0 +1,7 @@
+push :
+branches :['masrer']
+name:push docker image to dockerr hub
+runs-on:ubuntu-latest
+steps:
+-name:check out the repo
+uses : actions/checkout
